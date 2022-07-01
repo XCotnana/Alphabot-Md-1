@@ -36,7 +36,7 @@ global.ownernomer = "6285641476033" // nomor wa kalian
 global.ownernomerr = "+6285641476033" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
-global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
+global.background_welcome="https://telegra.ph/file/6daffe7a858629323dd10.jpg" // maks size 30kb, agar welcome image nya tdk delay
 
 global.packname = 'X-ZC' //sticker wm ubah
 global.author = 'IG @hai_om.qw' //sticker wm ganti nama kalian
