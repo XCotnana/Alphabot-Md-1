@@ -19,7 +19,7 @@ global.autobio = false
 //language
 //Available in indonesia & english
 //You can request others language 
-global.language = english  //change indonesia to english if you don't understand the language used by the bot
+global.language = indonesia  //change indonesia to english if you don't understand the language used by the bot
 
 
 // Other
@@ -32,8 +32,8 @@ global.email = "X-ZC@gmail.com" //bebas
 global.region = "Mars" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.owner = ["6285641476033","6285641476033"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285641476033" // nomor wa kalian
-global.ownernomerr = "+6285641476033" //nmr wa kalian
+global.ownernomer = "62xxxxxxxxxxx" // nomor wa kalian
+global.ownernomerr = "+62xxxxxxxxxx" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/6daffe7a858629323dd10.jpg" // maks size 30kb, agar welcome image nya tdk delay
